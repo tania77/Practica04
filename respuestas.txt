@@ -1,1 +1,4 @@
 se trata de una herramienta, que nos permite tener tantos intérpretes de Ruby como queramos, incluso diferentes versiones menores de un mismo intérprete, y cambiar de uno a otro tan sólo ejecutando un comando. Además, podemos definir un gemset (un conjunto de gemas) para cada proyecto, de modo que cuando nos cambiemos a un gemset en particular, éste contenga exclusivamente las gemas que hacen falta para correr la aplicación, en sus versiones apropiadas, sin que afecten a las otras aplicaciones que podamos tener
+
+
+En uno se escriben las sentencias a ejecutaar en un fichero, y este se le pasa al interprete para que que realice su funcion. En el otro se le dice al interprete directamente lo que debe ejecutar.
