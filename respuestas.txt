@@ -2,3 +2,6 @@ se trata de una herramienta, que nos permite tener tantos intérpretes de Ruby c
 
 
 En uno se escriben las sentencias a ejecutaar en un fichero, y este se le pasa al interprete para que que realice su funcion. En el otro se le dice al interprete directamente lo que debe ejecutar.
+
+
+Al ejecutarlo con PRY se le puden pasar valores durante la ejecucion, con lo que favorece la depuracion de codigo.
